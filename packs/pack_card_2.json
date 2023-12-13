@@ -1,0 +1,22 @@
+{
+  "name": "Pack Card 2 - Ultraman Leo",
+  "symbol": "NPUC",
+  "description": "for example only",
+  "image": "https://raw.githubusercontent.com/viandwi24/nfts/main/packs/pack_card_2.png",
+  "seller_fee_basis_points": 500,
+  "external_url": "",
+  "background_color": "1E1E1E",
+  "properties": {
+    "collection": {
+      "name": "NPUC",
+      "family": "NPUC"
+    },
+    "category": "image",
+    "creators": [
+      {
+        "address": "14kL18mkqJXL8sixueUM2mApbyVi15Mc4K1ww1ahEHLM",
+        "share": 100
+      }
+    ]
+  }
+}
