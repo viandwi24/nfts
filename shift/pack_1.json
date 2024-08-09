@@ -1,0 +1,22 @@
+{
+  "name": "Pack Card 1 - Ultraman Jack",
+  "symbol": "PIC",
+  "description": "for example only",
+  "image": "https://raw.githubusercontent.com/viandwi24/nfts/main/packs/pack_card_1.png",
+  "seller_fee_basis_points": 550,
+  "external_url": "",
+  "background_color": "1E1E1E",
+  "properties": {
+    "collection": {
+      "name": "PIC",
+      "family": "PIC"
+    },
+    "category": "image",
+    "creators": [
+      {
+        "address": "5R5uCFs3WTBxdu7ZFi3zofsR8HD2T9TG4ShpppoAapxg",
+        "share": 100
+      }
+    ]
+  }
+}
