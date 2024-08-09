@@ -1,0 +1,15 @@
+{
+  "name": "Project Item Collection",
+  "symbol": "PIC",
+  "description": "for testing only",
+  "image": "httpshttps://i.ibb.co/sR01Y5C/d9fd7caca276.png",
+  "seller_fee_basis_points": 550,
+  "properties": {
+    "creators": [
+      {
+        "address": "5R5uCFs3WTBxdu7ZFi3zofsR8HD2T9TG4ShpppoAapxg",
+        "share": 100
+      }
+    ]
+  }
+}
