@@ -1,6 +1,6 @@
 {
   "name": "Mecha - Blueprint",
-  "symbol": "PIC",
+  "symbol": "MBC",
   "description": "for example only",
   "image": "https://raw.githubusercontent.com/viandwi24/nfts/main/shift/mecha_blueprint.png",
   "seller_fee_basis_points": 550,
@@ -8,8 +8,8 @@
   "background_color": "1E1E1E",
   "properties": {
     "collection": {
-      "name": "PIC",
-      "family": "PIC"
+      "name": "MBC",
+      "family": "MBC"
     },
     "category": "image",
     "creators": [
